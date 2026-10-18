@@ -6,3 +6,6 @@ To jest całkowicie normalny plik README
 \`\`\`bash
 dotnet run
 \`\`\`
+
+# Kontakt
+Autor: Student
