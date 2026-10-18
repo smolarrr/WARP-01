@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s38641\\projekt1\\projekt1.csproj": {}
+    "/Users/r/Desktop/PJATK/WARP-01/projekt1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s38641\\projekt1\\projekt1.csproj": {
+    "/Users/r/Desktop/PJATK/WARP-01/projekt1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s38641\\projekt1\\projekt1.csproj",
+        "projectUniqueName": "/Users/r/Desktop/PJATK/WARP-01/projekt1.csproj",
         "projectName": "projekt1",
-        "projectPath": "C:\\Users\\s38641\\projekt1\\projekt1.csproj",
-        "packagesPath": "C:\\Users\\s38641\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s38641\\projekt1\\obj\\",
+        "projectPath": "/Users/r/Desktop/PJATK/WARP-01/projekt1.csproj",
+        "packagesPath": "/Users/r/.nuget/packages/",
+        "outputPath": "/Users/r/Desktop/PJATK/WARP-01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s38641\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/r/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.402/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
